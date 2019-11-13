@@ -2,3 +2,8 @@ C:\Users\Bogdan\Documents\GitHub\entoolslt-Test\entoolsTest\obj\Debug\entoolslt.
 C:\Users\Bogdan\Documents\GitHub\entoolslt-Test\entoolsTest\obj\Debug\EntoolTest.Properties.Resources.resources
 C:\Users\Bogdan\Documents\GitHub\entoolslt-Test\entoolsTest\obj\Debug\entoolslt.csproj.GenerateResource.cache
 C:\Users\Bogdan\Documents\GitHub\entoolslt-Test\entoolsTest\obj\Debug\entoolslt.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\Documents\GitHub\entoolslt-Test\entoolsTest\bin\Debug\entoolsTest.dll.config
+C:\Users\Bogdan\Documents\GitHub\entoolslt-Test\entoolsTest\bin\Debug\entoolsTest.dll
+C:\Users\Bogdan\Documents\GitHub\entoolslt-Test\entoolsTest\bin\Debug\entoolsTest.pdb
+C:\Users\Bogdan\Documents\GitHub\entoolslt-Test\entoolsTest\obj\Debug\entoolsTest.dll
+C:\Users\Bogdan\Documents\GitHub\entoolslt-Test\entoolsTest\obj\Debug\entoolsTest.pdb
