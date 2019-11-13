@@ -1,0 +1,4 @@
+C:\Users\Bogdan\Documents\GitHub\entoolslt-Test\entoolsTest\obj\Debug\entoolslt.csprojAssemblyReference.cache
+C:\Users\Bogdan\Documents\GitHub\entoolslt-Test\entoolsTest\obj\Debug\EntoolTest.Properties.Resources.resources
+C:\Users\Bogdan\Documents\GitHub\entoolslt-Test\entoolsTest\obj\Debug\entoolslt.csproj.GenerateResource.cache
+C:\Users\Bogdan\Documents\GitHub\entoolslt-Test\entoolsTest\obj\Debug\entoolslt.csproj.CoreCompileInputs.cache
